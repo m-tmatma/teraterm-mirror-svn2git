@@ -3,3 +3,5 @@
 /*.ncb
 /*.suo
 /*.vcproj.*.user
+/*.vcxproj.*.user
+/*.sdf
