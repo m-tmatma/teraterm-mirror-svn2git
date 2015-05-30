@@ -1,3 +1,7 @@
 /[Dd]ebug
 /[Rr]elease
+/*.ncb
+/*.suo
 /*.vcproj.*.user
+/*.vcxproj.*.user
+/*.vcxproj.user

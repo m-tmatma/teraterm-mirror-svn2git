@@ -4,4 +4,6 @@
 /*.suo
 /*.aps
 /*.vcproj.*.user
+/*.vcxproj.*.user
+/*.vcxproj.user
 /svnversion.h
