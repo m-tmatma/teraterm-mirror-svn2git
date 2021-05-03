@@ -1,2 +1,15 @@
-/Makefile*
-/Log
+build*/
+*~
+/libs/*
+*.obj
+**/Debug/
+**/Release/
+**/.vs/
+*.aps
+/GTAGS
+/GPATH
+/GRTAGS
+*.ncb
+*.suo
+*.user
+*.map
