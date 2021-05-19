@@ -1,5 +1,4 @@
-cyglaunch.exe
-cygterm+.tar.gz
-cygterm.exe
-cygterm.rc
-cygterm.res
+/*.res
+/cygterm+.tar.gz
+/*.exe
+/*.rc
