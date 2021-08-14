@@ -1,8 +1,5 @@
-/*.[Rr]elease
-/*.[Dd]ebug
-/*.ncb
-/*.suo
-/*.aps
-/*.vcproj.*.user
-/*.vcxproj.*.user
-/*.vcxproj.user
+play.Debug/
+play.Release/
+rec.Debug/
+rec.Release/
+
